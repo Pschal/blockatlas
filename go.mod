@@ -14,7 +14,7 @@ require (
 	github.com/containerd/continuity v0.1.0 // indirect
 	github.com/deckarep/golang-set v1.7.1
 	github.com/getsentry/raven-go v0.2.0
-	github.com/gin-contrib/cors v1.3.1
+	github.com/gin-contrib/cors v1.4.1
 	github.com/gin-gonic/gin v1.6.3
 	github.com/itchyny/timefmt-go v0.1.2
 	github.com/jackc/pgconn v1.8.0 // indirect
